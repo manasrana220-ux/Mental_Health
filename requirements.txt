@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+joblib
+numpy
+matplotlib
+xgboost
+streamlit_lottie
+time
